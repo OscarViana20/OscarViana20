@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+## Welcome to my GitHub Repo
+
+| ![Oscar Viana's github stats](https://github-readme-stats.vercel.app/api?username=OscarViana20&show_icons=true&hide_border=false&title_color=1e85e6&icon_color=1dd1a1&bg_color=fdfdfb&text_color=272c4a) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarViana20&layout=compact)](https://github.com/OscarViana20/github-readme-stats) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                            Stats                             |                          Languages                           |
+
+### Projects
+
+- My Web Site - [oscarviana20.github.io](https://oscarviana20.github.io/)
+
+### Connect me on Social Media
+
+[LinkedIn](https://www.linkedin.com/in/oscar-iv%C3%A1n-viana-sarango/)
+
 <!--
 **OscarViana20/OscarViana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
