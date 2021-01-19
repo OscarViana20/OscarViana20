@@ -10,7 +10,7 @@
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white` (racso.ivan@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />(racso.ivan@gmail.com)
 
 ## 👨👩 Connect me on Social Media [🔝](#welcome-badges-4-readmemd-profile)
 
