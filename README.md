@@ -10,7 +10,7 @@
 
 ### Connect me on Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-iv%C3%A1n-viana-sarango/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscarviana20/)
 
 <!--
 **OscarViana20/OscarViana20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
